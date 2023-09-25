@@ -1,4 +1,4 @@
-
+// writing this line comment to check if new changes are highlighted
 /*Write an RTL code for a 4-bit SIPO(serial-in-parallel-out)shift register
  which shifts first 2-bits (shift for 2 times) to left/right and should shift for 2 more times which should have the previous value.*/
 
